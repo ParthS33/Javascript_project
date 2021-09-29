@@ -5,7 +5,7 @@ let player={
     
 }
 
-player.sayHello()
+//player.sayHello()
 
 let cards= []
 let sum=0
