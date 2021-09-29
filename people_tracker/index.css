@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    text-align: center;
+    
+}
+button{
+    margin-bottom: 5px;
+    border-radius: 14px;
+    text-align: center;
+    font-size: 18px;
+    padding: 6px 20px;
+    width: 150px;
+}
+
+
+
+#increment-btn:hover{
+    background-color: #4CAF50;
+}
+
+#increment-btn:active{
+    
+    transform: translateY(2px);
+}
+
+#save-btn:hover{
+    background-color: blue;
+}
+
+#save-btn:active{
+    transform: translateY(2px);
+}
+
